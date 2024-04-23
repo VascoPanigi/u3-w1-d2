@@ -3,7 +3,7 @@ import { Container, Row, Col, Stack, Image, Nav, NavLink } from "react-bootstrap
 const MyFooter = () => (
   <footer>
     <Container fluid>
-      <Row className="bg-primary text-white p-4">
+      <Row className=" text-white p-4">
         <Col>
           <Stack>
             <Image
